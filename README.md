@@ -1,4 +1,6 @@
-![ServerReady Header](https://i.imgur.com/MzyOhS2.png)
+<img width="4096" height="843" alt="Github Repository Header" src="https://github.com/user-attachments/assets/49d4d4af-31ec-46a0-9c08-53e524aa73d0" />
+</br>
+</br>
 
 [![Build Plugin](https://github.com/PlexPrison/ServerPersistence/actions/workflows/build.yml/badge.svg)](https://github.com/PlexPrison/ServerPersistence/actions/workflows/build.yml)
 
@@ -12,7 +14,7 @@ It's a very simple plugin, with no configuration.
 
 ## Installation
 
-1. Head to the [latest release](https://github.com/PlexPrison/ServerReady/releases) of the plugin
+1. Head to the [latest release](https://github.com/Plexverse/server-ready/releases) of the plugin
 2. Download the Jar file from the latest release
 3. Plop `ServerReady-1.0.0.jar` into a folder within your Mineplex Project called `external-plugins`
 4. Start your server, and profit.
