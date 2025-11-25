@@ -1,4 +1,4 @@
-package com.plexprison.serverready.game;
+package net.plexverse.serverready.game;
 
 import com.mineplex.studio.sdk.modules.MineplexModuleManager;
 import com.mineplex.studio.sdk.modules.game.*;

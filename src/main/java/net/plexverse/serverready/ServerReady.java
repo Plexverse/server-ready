@@ -1,6 +1,6 @@
-package com.plexprison.serverready;
+package net.plexverse.serverready;
 
-import com.plexprison.serverready.game.EmptyGame;
+import net.plexverse.serverready.game.EmptyGame;
 import lombok.Getter;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.Plugin;

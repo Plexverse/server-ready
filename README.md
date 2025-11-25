@@ -2,9 +2,9 @@
 </br>
 </br>
 
-[![Build Plugin](https://github.com/PlexPrison/ServerPersistence/actions/workflows/build.yml/badge.svg)](https://github.com/PlexPrison/ServerPersistence/actions/workflows/build.yml)
+[![Build Plugin](https://github.com/Plexverse/ServerPersistence/actions/workflows/build.yml/badge.svg)](https://github.com/Plexverse/server-ready/actions/workflows/build.yml)
 
-ServerReady is a plugin for infinitely running Mineplex Studio project instances until they are killed by external
+Server Ready is a plugin for infinitely running Mineplex Studio project instances until they are killed by external
 factors. This permanently sets the project into `PRE_START` phase (meaning it will last forever, until killed).
 
 The plugin will ensure all other plugins are done with their load process before marking the server as `PRE_START`. It
